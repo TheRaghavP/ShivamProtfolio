@@ -1,13 +1,3 @@
 # ShivamProtfolio
 ![1677949346205](https://user-images.githubusercontent.com/116371786/222948186-a453c473-21fb-42b8-a97c-9eecf9a1f0c4.png)
 ![1677945343556](https://user-images.githubusercontent.com/116371786/222948189-fde01728-2bc7-41ad-b4be-86e63c2ef6cf.png)
-![telephone](https://user-images.githubusercontent.com/116371786/222948737-4f3744e5-33d0-4d5a-bf57-de06d0c45686.png)
-![cpp](https://user-images.githubusercontent.com/116371786/222948742-feee3571-0c8f-4efc-b309-508e4a69ebf2.png)
-![python](https://user-images.githubusercontent.com/116371786/222948749-bc24b26c-bee0-4992-ad21-a2df44e14b60.png)
-![java](https://user-images.githubusercontent.com/116371786/222948752-86b72eb2-b072-46f6-86f3-60c5eff78404.png)
-![firebase](https://user-images.githubusercontent.com/116371786/222948755-fe39bf93-df1d-43ac-b498-0f81527c8a3b.png)
-![android](https://user-images.githubusercontent.com/116371786/222948761-3cb90c8f-9ced-416a-afca-227ed66a4ddd.png)
-![html5](https://user-images.githubusercontent.com/116371786/222948774-f4720618-946a-47a1-92fb-ba66509f1e11.png)
-![instagram](https://user-images.githubusercontent.com/116371786/222948855-6325d627-5839-48b6-b524-910cc9579cf5.png)
-![gmail](https://user-images.githubusercontent.com/116371786/222948859-b7ade742-b50e-4614-943c-d368e4b56f89.png)
-![linkedin](https://user-images.githubusercontent.com/116371786/222948861-1b0b64fb-8ce2-41a2-a2b7-6885c283aa6a.png)
